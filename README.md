@@ -10,10 +10,10 @@ Right now, I'm building web projects while diving into compiler design.
 
 | Project | Description | Stack |
 |---------|-------------|-------|
-| [Cloudify](https://github.com/GabGaitanidis/file-uploader) | Cloud file storage with folder organization | Node.js, Prisma, Cloudinary, Passport.js, PostgreSQL |
-| [Shopping Cart](https://github.com/GabGaitanidis/shopping-cart-project) | A simple shopping cart frontend react-router page | React |
 | [API Generator](https://github.com/GabGaitanidis/API_Generator) | Tool for generating REST APIs | TypeScript, Node.js |
 | [Fitness Tracker](https://github.com/GabGaitanidis/fitness-tracker) | Workout logging backend REST API | JavaScript, Node.js, Express, PostgreSQL |
+| [Cloudify](https://github.com/GabGaitanidis/file-uploader) | Cloud file storage with folder organization | Node.js, Prisma, Cloudinary, Passport.js, PostgreSQL |
+| [Shopping Cart](https://github.com/GabGaitanidis/shopping-cart-project) | A simple shopping cart frontend react-router page | React |
 
 ---
 
