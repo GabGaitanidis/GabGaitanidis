@@ -17,14 +17,6 @@ Right now, I'm building web projects while diving into compiler design.
 
 ---
 
-## Currently
-
-- Learning about compilers and continuing building web apps
-- Working on writing a compiler in C
-- Long-term goal: internships in ML compilers OR backend systems
-
----
-
 ## Stack
 
 ![JavaScript](https://img.shields.io/badge/-JavaScript-black?style=flat-square&logo=javascript)
