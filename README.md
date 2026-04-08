@@ -1,4 +1,4 @@
-# Hey, I'm Gab
+# Hey, I'm Gabriel
 
 I build backend systems and full-stack applications with a focus on **API design, database structure, and clean architecture**.
 
