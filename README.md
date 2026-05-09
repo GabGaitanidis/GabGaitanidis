@@ -14,8 +14,8 @@ Currently exploring **compilers and low-level systems** while building real-worl
 - **Fitness Tracker API** – Backend with JWT auth, validation, and structured workout data  
   *Node.js, Express, PostgreSQL*
 
-- **Cloudify** – Cloud file storage with authentication and folder organization  
-  *Node.js, Prisma, PostgreSQL, Cloudinary*
+- **Task Queue** – Background jobs Manager built on redis, with rescheduling jobs if
+  execution time takes too long
   
 - **Smartpolis (Hackathon)** – Built the frontend for a municipal analytics platform in a team environment  
   *Next.js, Tailwind, shadcn/ui*
