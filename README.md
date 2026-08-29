@@ -2,7 +2,7 @@
 
 I build backend systems and full-stack applications with a focus on **API design, database structure, and clean architecture**.
 
-Currently exploring **compilers and low-level systems** while building real-world web projects.
+
 
 ---
 
