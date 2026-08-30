@@ -11,9 +11,6 @@ I build backend systems and full-stack applications with a focus on **API design
 - **API Generator** – Schema-driven REST API system with dynamic endpoints and API key authorization  
   *TypeScript, Node.js, PostgreSQL*
 
-- **Fitness Tracker API** – Backend with JWT auth, validation, and structured workout data  
-  *Node.js, Express, PostgreSQL*
-
 - **Task Queue** – Background jobs Manager built on redis, with rescheduling jobs if
   execution time takes too long
   
